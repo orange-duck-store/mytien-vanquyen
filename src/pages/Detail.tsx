@@ -31,7 +31,7 @@ const Detail = () => {
       </div>
 
       <TextReveal className="text-center ">
-        chúng ta đã cùng nhau trải qua rất nhiều khoảnh khắc cùng nhau, mong anh
+        Chúng ta đã cùng nhau trải qua rất nhiều khoảnh khắc cùng nhau, mong anh
         và em vẫn sẽ luôn như vậy.
       </TextReveal>
       <ScrollTriggered />
